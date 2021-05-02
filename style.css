@@ -67,3 +67,8 @@ section{
     float: left;
     padding-left: 40px;
 }
+.half-width4{
+    background-image: url("images/dream-bg.png");
+    background-position: right;
+    background-repeat: no-repeat;
+}
