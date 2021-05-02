@@ -18,7 +18,7 @@ h3{
     margin-left: 5%;
     padding: 2%;
 }
-#namestyle{
+.namestyle{
     color: orange;
 }
 h4{
@@ -71,4 +71,26 @@ section{
     background-image: url("images/dream-bg.png");
     background-position: right;
     background-repeat: no-repeat;
+}
+h1.experience{
+    font-size: 50px;
+    margin-left: 0;
+    padding: 3%;
+
+}
+h3.box-experiece{
+    padding: 0;
+}
+h4.namestyle{
+    padding: 0;
+}
+.new-p{
+    width: 100%;
+    text-align: inherit;
+    margin-left: 5%;
+}
+.new-p1{
+    width: 90%;
+    text-align: inherit;
+    margin-left: 5%;
 }
