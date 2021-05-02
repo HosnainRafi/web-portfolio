@@ -28,17 +28,17 @@ h4{
 
 }
 .first-p{
-    width: 50%;
+    width: 45%;
     text-align: justify;
     margin-left: 5%;
     padding: 2%;
 }
 .half-width{
-    width: 40%;
+    width: 45%;
     float: left;
 }
 .half-width1{
-    width: 50%;
+    width: 45%;
     float: right;
     padding-right: 30px;
 }
@@ -59,7 +59,7 @@ section{
     font-weight: 700;
 }
 .half-width4{
-    width: 40%;
+    width: 45%;
     float: right;
 }
 .half-width3{
@@ -85,12 +85,24 @@ h4.namestyle{
     padding: 0;
 }
 .new-p{
-    width: 100%;
+    width: 80%;
     text-align: inherit;
     margin-left: 5%;
 }
 .new-p1{
-    width: 90%;
+    width: 80%;
     text-align: inherit;
     margin-left: 5%;
+}
+.single-experience{
+    box-shadow: 10px 10px 40px gray;
+    width: 40%;
+    height: 80%;
+    margin-left: 5%;
+}
+.single-experience1{
+    box-shadow: 10px 10px 40px gray;
+    width: 40%;
+    height: 80%;
+    margin-right: 5%;
 }
