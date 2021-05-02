@@ -27,7 +27,7 @@ h4{
     padding: 2%;
 
 }
-#first-p{
+.first-p{
     width: 50%;
     text-align: justify;
     margin-left: 5%;
@@ -48,6 +48,7 @@ h4{
 }
 section{
     height: 500px;
+    margin-bottom: 150px;
 }
 .button-link{
     text-decoration: none;
@@ -56,4 +57,13 @@ section{
     background-image: linear-gradient(lightSalmon ,tomato);
     color: white;
     font-weight: 700;
+}
+.half-width4{
+    width: 40%;
+    float: right;
+}
+.half-width3{
+    width: 50%;
+    float: left;
+    padding-left: 40px;
 }
