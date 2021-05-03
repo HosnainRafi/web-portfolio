@@ -75,7 +75,8 @@ section{
 h1.experience{
     font-size: 50px;
     margin-left: 0;
-    padding: 3%;
+    padding-left : 3%;
+    padding-bottom: 5px;
 
 }
 h3.box-experiece{
@@ -99,10 +100,33 @@ h4.namestyle{
     width: 40%;
     height: 80%;
     margin-left: 5%;
+    border-radius: 10px;
+    background-color: white;
 }
 .single-experience1{
     box-shadow: 10px 10px 40px gray;
     width: 40%;
     height: 80%;
     margin-right: 5%;
+    border-radius: 10px;
+    background-color:white ;
+}
+.experience-area{
+    background-image: url("images/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#scale-design{
+    border-left: 7px solid ;
+    border-image: linear-gradient(tomato,lightSalmon);
+    border-image-slice: 1;
+}
+#scale-design1{
+    border-left: 7px solid tomato;
+    border-image: linear-gradient(blue,cyan);
+    border-image-slice: 1;
+}
+footer{
+    text-align: center;
+    margin-bottom: 30px;
 }
